@@ -33,7 +33,7 @@ function getHubbers(callback) {
         }
     }
 
-    matchingGame.github.get("orgs/github/members", { all: true }, function (err, data) {
+    matchingGame.github.get("orgs/FreeCAD/members", { all: true }, function (err, data) {
         if (err) {
             console.warn(err);
             data = window.Hubbers;
