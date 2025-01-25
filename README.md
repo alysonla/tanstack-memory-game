@@ -9,7 +9,7 @@ Fork this repo, edit the in the [memory-matching.js](https://github.com/alysonla
 
 The classic memory game, with your favorite open source team members 
 
-[![](http://i.imgur.com/KLl5oEO.jpg)](https://alysonla.github.io/hubber-memory-game/)
+![Screenshot 2025-01-25 at 4 23 22 PM](https://github.com/user-attachments/assets/62d57c92-ddf5-451a-a989-3e4145114662)
 
 ## Resources
 
