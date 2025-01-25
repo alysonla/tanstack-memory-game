@@ -1,4 +1,4 @@
-## Tanstack Memory Game
+## TanStack Memory Game
 
 This is a fork-and-go project 
 
