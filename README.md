@@ -1,12 +1,15 @@
-## Hubber Memory Game
+## Tanstack Memory Game
 
-The classic memory game, with your favorite hubbers
+This is a fork-and-go project 
+
+Fork this repo, edit the code, and you will have a memory matching game for the public members in your GitHub Organization 
+
+The classic memory game, with your favorite open source team members 
 
 [![](http://i.imgur.com/KLl5oEO.jpg)](https://alysonla.github.io/hubber-memory-game/)
 
 ## Resources
 
-Tutorial using [HTML5 Games development by Example: Beginners Guide](http://www.amazon.com/gp/product/B005KRUHXI/ref=kinw_myk_ro_title#).
 
 Hosted using [GitHub Pages](https://pages.github.com/).
 
@@ -21,14 +24,4 @@ Hosted using [GitHub Pages](https://pages.github.com/).
 
 Just open the index.html file in a browser. No frameworks needed. :grin:
 
-### Rebuilding the GitHubbers list
 
-The [`js/Hubbers.js`](/js/Hubbers.js) file contains a list with all the public members in the [GitHub](https://github.com/github) organization.
-It contains minimal information which is needed and used when the public API request rate limit exceeds.
-
-This file is updated automatically using the [`build.js`](/build.js) script and a [token](https://github.com/settings/tokens):
-
-```sh
-$ npm i
-$ node build.js <token>
-```
